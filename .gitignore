@@ -1,0 +1,5 @@
+/out
+*.iml
+/.idea
+/.git
+.DS_Store
